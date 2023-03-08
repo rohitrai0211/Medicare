@@ -1032,7 +1032,10 @@ td {
     .testiheading {
         margin-bottom: 0px;
     }
-
+    quoteimg .overlay4{
+    top:20px;
+    }
+    
     .quoteimg {
         margin-top: 20px;
     }
